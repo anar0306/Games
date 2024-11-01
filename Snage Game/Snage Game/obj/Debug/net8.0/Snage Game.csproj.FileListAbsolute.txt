@@ -1,0 +1,14 @@
+C:\Users\HEQT-PC\3D Objects\Snage Game\Snage Game\bin\Debug\net8.0\Snage Game.exe
+C:\Users\HEQT-PC\3D Objects\Snage Game\Snage Game\bin\Debug\net8.0\Snage Game.deps.json
+C:\Users\HEQT-PC\3D Objects\Snage Game\Snage Game\bin\Debug\net8.0\Snage Game.runtimeconfig.json
+C:\Users\HEQT-PC\3D Objects\Snage Game\Snage Game\bin\Debug\net8.0\Snage Game.dll
+C:\Users\HEQT-PC\3D Objects\Snage Game\Snage Game\bin\Debug\net8.0\Snage Game.pdb
+C:\Users\HEQT-PC\3D Objects\Snage Game\Snage Game\obj\Debug\net8.0\Snage Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HEQT-PC\3D Objects\Snage Game\Snage Game\obj\Debug\net8.0\Snage Game.AssemblyInfoInputs.cache
+C:\Users\HEQT-PC\3D Objects\Snage Game\Snage Game\obj\Debug\net8.0\Snage Game.AssemblyInfo.cs
+C:\Users\HEQT-PC\3D Objects\Snage Game\Snage Game\obj\Debug\net8.0\Snage Game.csproj.CoreCompileInputs.cache
+C:\Users\HEQT-PC\3D Objects\Snage Game\Snage Game\obj\Debug\net8.0\Snage Game.dll
+C:\Users\HEQT-PC\3D Objects\Snage Game\Snage Game\obj\Debug\net8.0\refint\Snage Game.dll
+C:\Users\HEQT-PC\3D Objects\Snage Game\Snage Game\obj\Debug\net8.0\Snage Game.pdb
+C:\Users\HEQT-PC\3D Objects\Snage Game\Snage Game\obj\Debug\net8.0\Snage Game.genruntimeconfig.cache
+C:\Users\HEQT-PC\3D Objects\Snage Game\Snage Game\obj\Debug\net8.0\ref\Snage Game.dll
